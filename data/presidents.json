@@ -1,0 +1,284 @@
+[
+    {
+        "number": "1",
+        "name": "George Washington",
+        "term": "April 30, 1789 – March 4, 1797",
+        "party": "Unaffiliated"
+    },
+    {
+        "number": "2",
+        "name": "John Adams",
+        "term": "March 4, 1797 – March 4, 1801",
+        "party": "Federalist"
+    },
+    {
+        "number": "3",
+        "name": "Thomas Jefferson",
+        "term": "March 4, 1801 – March 4, 1809",
+        "party": "Democratic-Republican"
+    },
+    {
+        "number": "4",
+        "name": "James Madison",
+        "term": "March 4, 1809 – March 4, 1817",
+        "party": "Democratic-Republican"
+    },
+    {
+        "number": "5",
+        "name": "James Monroe",
+        "term": "March 4, 1817 – March 4, 1825",
+        "party": "Democratic-Republican"
+    },
+    {
+        "number": "6",
+        "name": "John Quincy Adams",
+        "term": "March 4, 1825 – March 4, 1829",
+        "party": "Democratic-Republican"
+    },
+    {
+        "number": "7",
+        "name": "Andrew Jackson",
+        "term": "March 4, 1829 – March 4, 1837",
+        "party": "Democratic"
+    },
+    {
+        "number": "8",
+        "name": "Martin Van Buren",
+        "term": "March 4, 1837 – March 4, 1841",
+        "party": "Democratic"
+    },
+    {
+        "number": "9",
+        "name": "William Henry Harrison",
+        "term": "March 4, 1841 – April 4, 1841",
+        "party": "Whig"
+    },
+    {
+        "number": "10",
+        "name": "John Tyler",
+        "term": "April 4, 1841 – March 4, 1845",
+        "party": "Whig"
+    },
+    {
+        "number": "11",
+        "name": "James K. Polk",
+        "term": "March 4, 1845 – March 4, 1849",
+        "party": "Democratic"
+    },
+    {
+        "number": "12",
+        "name": "Zachary Taylor",
+        "term": "March 4, 1849 – July 9, 1850",
+        "party": "Whig"
+    },
+    {
+        "number": "13",
+        "name": "Millard Fillmore",
+        "term": "July 9, 1850 – March 4, 1853",
+        "party": "Whig"
+    },
+    {
+        "number": "14",
+        "name": "Franklin Pierce",
+        "term": "March 4, 1853 – March 4, 1857",
+        "party": "Democratic"
+    },
+    {
+        "number": "15",
+        "name": "James Buchanan",
+        "term": "March 4, 1857 – March 4, 1861",
+        "party": "Democratic"
+    },
+    {
+        "number": "16",
+        "name": "Abraham Lincoln",
+        "term": "March 4, 1861 – April 15, 1865",
+        "party": "Republican"
+    },
+    {
+        "number": "17",
+        "name": "Andrew Johnson",
+        "term": "April 15, 1865 – March 4, 1869",
+        "party": "National Union"
+    },
+    {
+        "number": "18",
+        "name": "Ulysses S. Grant",
+        "term": "March 4, 1869 – March 4, 1877",
+        "party": "Republican"
+    },
+    {
+        "number": "19",
+        "name": "Rutherford B. Hayes",
+        "term": "March 4, 1877 – March 4, 1881",
+        "party": "Republican"
+    },
+    {
+        "number": "20",
+        "name": "James A. Garfield",
+        "term": "March 4, 1881 – September 19, 1881",
+        "party": "Republican"
+    },
+    {
+        "number": "21",
+        "name": "Chester A. Arthur",
+        "term": "September 19, 1881 – March 4, 1885",
+        "party": "Republican"
+    },
+    {
+        "number": "22",
+        "name": "Grover Cleveland",
+        "term": "March 4, 1885 – March 4, 1889",
+        "party": "Democratic"
+    },
+    {
+        "number": "23",
+        "name": "Benjamin Harrison",
+        "term": "March 4, 1889 – March 4, 1893",
+        "party": "Republican"
+    },
+    {
+        "number": "24",
+        "name": "Grover Cleveland",
+        "term": "March 4, 1893 – March 4, 1897",
+        "party": "Democratic"
+    },
+    {
+        "number": "25",
+        "name": "William McKinley",
+        "term": "March 4, 1897 – September 14, 1901",
+        "party": "Republican"
+    },
+    {
+        "number": "26",
+        "name": "Theodore Roosevelt",
+        "term": "September 14, 1901 – March 4, 1909",
+        "party": "Republican"
+    },
+    {
+        "number": "27",
+        "name": "William Howard Taft",
+        "term": "March 4, 1909 – March 4, 1913",
+        "party": "Republican"
+    },
+    {
+        "number": "28",
+        "name": "Woodrow Wilson",
+        "term": "March 4, 1913 – March 4, 1921",
+        "party": "Democratic"
+    },
+    {
+        "number": "29",
+        "name": "Warren G. Harding",
+        "term": "March 4, 1921 – August 2, 1923",
+        "party": "Republican"
+    },
+    {
+        "number": "30",
+        "name": "Calvin Coolidge",
+        "term": "August 2, 1923 – March 4, 1929",
+        "party": "Republican"
+    },
+    {
+        "number": "31",
+        "name": "Herbert Hoover",
+        "term": "March 4, 1929 – March 4, 1933",
+        "party": "Republican"
+    },
+    {
+        "number": "32",
+        "name": "Franklin D. Roosevelt",
+        "term": "March 4, 1933 – April 12, 1945",
+        "party": "Democratic"
+    },
+    {
+        "number": "33",
+        "name": "Harry S. Truman",
+        "term": "April 12, 1945 – January 20, 1953",
+        "party": "Democratic"
+    },
+    {
+        "number": "34",
+        "name": "Dwight D. Eisenhower",
+        "term": "January 20, 1953 – January 20, 1961",
+        "party": "Republican"
+    },
+    {
+        "number": "35",
+        "name": "John F. Kennedy",
+        "term": "January 20, 1961 – November 22, 1963",
+        "party": "Democratic"
+    },
+    {
+        "number": "36",
+        "name": "Lyndon B. Johnson",
+        "term": "November 22, 1963 – January 20, 1969",
+        "party": "Democratic"
+    },
+    {
+        "number": "37",
+        "name": "Richard Nixon",
+        "term": "January 20, 1969 – August 9, 1974",
+        "party": "Republican"
+    },
+    {
+        "number": "38",
+        "name": "Gerald Ford",
+        "term": "August 9, 1974 – January 20, 1977",
+        "party": "Republican"
+    },
+    {
+        "number": "39",
+        "name": "Jimmy Carter",
+        "term": "January 20, 1977 – January 20, 1981",
+        "party": "Democratic"
+    },
+    {
+        "number": "40",
+        "name": "Ronald Reagan",
+        "term": "January 20, 1981 – January 20, 1989",
+        "party": "Republican"
+    },
+    {
+        "number": "41",
+        "name": "George H. W. Bush",
+        "term": "January 20, 1989 – January 20, 1993",
+        "party": "Republican"
+    },
+    {
+        "number": "42",
+        "name": "Bill Clinton",
+        "term": "January 20, 1993 – January 20, 2001",
+        "party": "Democratic"
+    },
+    {
+        "number": "43",
+        "name": "George W. Bush",
+        "term": "January 20, 2001 – January 20, 2009",
+        "party": "Republican"
+    },
+    {
+        "number": "44",
+        "name": "Barack Obama",
+        "term": "January 20, 2009 – January 20, 2017",
+        "party": "Democratic"
+    },
+    {
+        "number": "45",
+        "name": "Donald Trump",
+        "term": "January 20, 2017 – January 20, 2021",
+        "party": "Republican"
+    },
+    {
+        "number": "46",
+        "name": "Joe Biden",
+        "term": "January 20, 2021 – January 20, 2025",
+        "party": "Democratic"
+    },
+    {
+        "number": "47",
+        "name": "Donald Trump",
+        "term": "January 20, 2025 – Incumbent",
+        "party": "Republican"
+    }
+]

@@ -1,0 +1,51 @@
+{% extends 'layout.html' %} {% block content %}
+<div class="container">
+  <h1>Welcome to {{name}}</h1>
+  <p>
+    This application clean texts and analyse the number of word, characters and
+    most frequent words in the text. Check it out by click text analyzer at the
+    menu. You need the following technologies to build this web application:
+  </p>
+  <ul class="tech-lists">
+    {% for tech in techs %}
+    <li class="tech">{{tech}}</li>
+
+    {% endfor %}
+  </ul>
+</div>
+
+{% endblock %}
+
+
+
+
+
+
+
+{% extends 'layout.html' %} {% block content %}
+<div class="container">
+  <h1>About {{name}}</h1>
+  <p>
+    This is a 30 days of python programming challenge. If you have been coding
+    this far, you are awesome. Congratulations for the job well done!
+  </p>
+</div>
+{% endblock %}
+
+
+
+
+{% extends 'layout.html' %} {% block content %}
+<div class="container">
+  <h1>Text Analyzer</h1>
+  <form action="https://thirtydaysofpython-v1.herokuapp.com/post" method="POST">
+    <div>
+      <textarea rows="25" name="content" autofocus></textarea>
+    </div>
+    <div>
+      <input type="submit" class="btn" value="Process Text" />
+    </div>
+  </form>
+</div>
+
+{% endblock %}

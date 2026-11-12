@@ -1,0 +1,331 @@
+[
+    {
+        "number": "1",
+        "Name": "George Washington",
+        "Term": "April 30, 1789–March 4, 1797",
+        "Party": "Unaffiliated",
+        "election": "1788–89"
+    },
+    {
+        "number": "2",
+        "Name": "John Adams",
+        "Term": "March 4, 1797–March 4, 1801",
+        "Party": "Federalist",
+        "election": "1796"
+    },
+    {
+        "number": "3",
+        "Name": "Thomas Jefferson",
+        "Term": "March 4, 1801–March 4, 1809",
+        "Party": "Democratic-Republican",
+        "election": "1800"
+    },
+    {
+        "number": "4",
+        "Name": "James Madison",
+        "Term": "March 4, 1809–March 4, 1817",
+        "Party": "Democratic-Republican",
+        "election": "1808"
+    },
+    {
+        "number": "5",
+        "Name": "James Monroe",
+        "Term": "March 4, 1817–March 4, 1825",
+        "Party": "Democratic-Republican",
+        "election": "1816"
+    },
+    {
+        "number": "6",
+        "Name": "John Quincy Adams",
+        "Term": "March 4, 1825–March 4, 1829",
+        "Party": "Democratic-Republican[f]",
+        "election": "1824"
+    },
+    {
+        "number": "7",
+        "Name": "Andrew Jackson",
+        "Term": "March 4, 1829–March 4, 1837",
+        "Party": "Democratic",
+        "election": "1828"
+    },
+    {
+        "number": "8",
+        "Name": "Martin Van Buren",
+        "Term": "March 4, 1837–March 4, 1841",
+        "Party": "Democratic",
+        "election": "1836"
+    },
+    {
+        "number": "9",
+        "Name": "William Henry Harrison",
+        "Term": "March 4, 1841–April 4, 1841[e]",
+        "Party": "Whig",
+        "election": "1840"
+    },
+    {
+        "number": "10",
+        "Name": "John Tyler",
+        "Term": "April 4, 1841[i]–March 4, 1845",
+        "Party": "Whig[j]",
+        "election": "–"
+    },
+    {
+        "number": "11",
+        "Name": "James K. Polk",
+        "Term": "March 4, 1845–March 4, 1849",
+        "Party": "Democratic",
+        "election": "1844"
+    },
+    {
+        "number": "12",
+        "Name": "Zachary Taylor",
+        "Term": "March 4, 1849–July 9, 1850[e]",
+        "Party": "Whig",
+        "election": "1848"
+    },
+    {
+        "number": "13",
+        "Name": "Millard Fillmore",
+        "Term": "July 9, 1850[k]–March 4, 1853",
+        "Party": "Whig",
+        "election": "–"
+    },
+    {
+        "number": "14",
+        "Name": "Franklin Pierce",
+        "Term": "March 4, 1853–March 4, 1857",
+        "Party": "Democratic",
+        "election": "1852"
+    },
+    {
+        "number": "15",
+        "Name": "James Buchanan",
+        "Term": "March 4, 1857–March 4, 1861",
+        "Party": "Democratic",
+        "election": "1856"
+    },
+    {
+        "number": "16",
+        "Name": "Abraham Lincoln",
+        "Term": "March 4, 1861–April 15, 1865[e]",
+        "Party": "Republican",
+        "election": "1860"
+    },
+    {
+        "number": "17",
+        "Name": "Andrew Johnson",
+        "Term": "April 15, 1865[m]–March 4, 1869",
+        "Party": "National Union[n]",
+        "election": "–"
+    },
+    {
+        "number": "18",
+        "Name": "Ulysses S. Grant",
+        "Term": "March 4, 1869–March 4, 1877",
+        "Party": "Republican",
+        "election": "1868"
+    },
+    {
+        "number": "19",
+        "Name": "Rutherford B. Hayes",
+        "Term": "March 4, 1877–March 4, 1881",
+        "Party": "Republican",
+        "election": "1876"
+    },
+    {
+        "number": "20",
+        "Name": "James A. Garfield",
+        "Term": "March 4, 1881–September 19, 1881[e]",
+        "Party": "Republican",
+        "election": "1880"
+    },
+    {
+        "number": "21",
+        "Name": "Chester A. Arthur",
+        "Term": "September 19, 1881[o]–March 4, 1885",
+        "Party": "Republican",
+        "election": "–"
+    },
+    {
+        "number": "22",
+        "Name": "Grover Cleveland",
+        "Term": "March 4, 1885–March 4, 1889",
+        "Party": "Democratic",
+        "election": "1884"
+    },
+    {
+        "number": "23",
+        "Name": "Benjamin Harrison",
+        "Term": "March 4, 1889–March 4, 1893",
+        "Party": "Republican",
+        "election": "1888"
+    },
+    {
+        "number": "24",
+        "Name": "Grover Cleveland",
+        "Term": "March 4, 1893–March 4, 1897",
+        "Party": "Democratic",
+        "election": "1892"
+    },
+    {
+        "number": "25",
+        "Name": "William McKinley",
+        "Term": "March 4, 1897–September 14, 1901[e]",
+        "Party": "Republican",
+        "election": "1896"
+    },
+    {
+        "number": "26",
+        "Name": "Theodore Roosevelt",
+        "Term": "September 14, 1901[p]–March 4, 1909",
+        "Party": "Republican",
+        "election": "–"
+    },
+    {
+        "number": "27",
+        "Name": "William Howard Taft",
+        "Term": "March 4, 1909–March 4, 1913",
+        "Party": "Republican",
+        "election": "1908"
+    },
+    {
+        "number": "28",
+        "Name": "Woodrow Wilson",
+        "Term": "March 4, 1913–March 4, 1921",
+        "Party": "Democratic",
+        "election": "1912"
+    },
+    {
+        "number": "29",
+        "Name": "Warren G. Harding",
+        "Term": "March 4, 1921–August 2, 1923[e]",
+        "Party": "Republican",
+        "election": "1920"
+    },
+    {
+        "number": "30",
+        "Name": "Calvin Coolidge",
+        "Term": "August 2, 1923[q]–March 4, 1929",
+        "Party": "Republican",
+        "election": "–"
+    },
+    {
+        "number": "31",
+        "Name": "Herbert Hoover",
+        "Term": "March 4, 1929–March 4, 1933",
+        "Party": "Republican",
+        "election": "1928"
+    },
+    {
+        "number": "32",
+        "Name": "Franklin D. Roosevelt",
+        "Term": "March 4, 1933–April 12, 1945[e]",
+        "Party": "Democratic",
+        "election": "1932"
+    },
+    {
+        "number": "33",
+        "Name": "Harry S. Truman",
+        "Term": "April 12, 1945[r]–January 20, 1953",
+        "Party": "Democratic",
+        "election": "–"
+    },
+    {
+        "number": "34",
+        "Name": "Dwight D. Eisenhower",
+        "Term": "January 20, 1953–January 20, 1961",
+        "Party": "Republican",
+        "election": "1952"
+    },
+    {
+        "number": "35",
+        "Name": "John F. Kennedy",
+        "Term": "January 20, 1961–November 22, 1963[e]",
+        "Party": "Democratic",
+        "election": "1960"
+    },
+    {
+        "number": "36",
+        "Name": "Lyndon B. Johnson",
+        "Term": "November 22, 1963[s]–January 20, 1969",
+        "Party": "Democratic",
+        "election": "–"
+    },
+    {
+        "number": "37",
+        "Name": "Richard Nixon",
+        "Term": "January 20, 1969–August 9, 1974[h]",
+        "Party": "Republican",
+        "election": "1968"
+    },
+    {
+        "number": "38",
+        "Name": "Gerald Ford",
+        "Term": "August 9, 1974[u]–January 20, 1977",
+        "Party": "Republican",
+        "election": "–"
+    },
+    {
+        "number": "39",
+        "Name": "Jimmy Carter",
+        "Term": "January 20, 1977–January 20, 1981",
+        "Party": "Democratic",
+        "election": "1976"
+    },
+    {
+        "number": "40",
+        "Name": "Ronald Reagan",
+        "Term": "January 20, 1981–January 20, 1989",
+        "Party": "Republican",
+        "election": "1980"
+    },
+    {
+        "number": "41",
+        "Name": "George H. W. Bush",
+        "Term": "January 20, 1989–January 20, 1993",
+        "Party": "Republican",
+        "election": "1988"
+    },
+    {
+        "number": "42",
+        "Name": "Bill Clinton",
+        "Term": "January 20, 1993–January 20, 2001",
+        "Party": "Democratic",
+        "election": "1992"
+    },
+    {
+        "number": "43",
+        "Name": "George W. Bush",
+        "Term": "January 20, 2001–January 20, 2009",
+        "Party": "Republican",
+        "election": "2000"
+    },
+    {
+        "number": "44",
+        "Name": "Barack Obama",
+        "Term": "January 20, 2009–January 20, 2017",
+        "Party": "Democratic",
+        "election": "2008"
+    },
+    {
+        "number": "45",
+        "Name": "Donald Trump",
+        "Term": "January 20, 2017–January 20, 2021",
+        "Party": "Republican",
+        "election": "2016"
+    },
+    {
+        "number": "46",
+        "Name": "Joe Biden",
+        "Term": "January 20, 2021–January 20, 2025",
+        "Party": "Democratic",
+        "election": "2020"
+    },
+    {
+        "number": "47",
+        "Name": "Donald Trump",
+        "Term": "January 20, 2025–Incumbent",
+        "Party": "Republican",
+        "election": "2024"
+    }
+]
